@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583689995 source:c:\users\yassirprograma\desktop\fdp\pruebas\2602020\conjuntos aleatorios\main.cpp
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
